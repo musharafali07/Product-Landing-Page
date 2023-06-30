@@ -1,5 +1,6 @@
 # Product-Landing-Page
-Product landing page: First internship task
+
+## Product landing page: First internship task
 Showcases a specific product to potential customers
 Engaging and visually appealing layout
 Easy navigation menu for seamless browsing
